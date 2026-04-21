@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.obj
+*.pdb
+*.dir/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+code
